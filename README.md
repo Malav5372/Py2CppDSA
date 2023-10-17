@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-Welcome to the " pyhton 2 C++ Data Structures and Algorithms Repository." This repository represents a significant chapter of my academic journey, spanning from semester 3 to semester 5 of my undergraduate studies. Within these digital confines, you will find a comprehensive display of my exploration into the domain of data structures and algorithms, implemented meticulously in both C++ and Python.
+Welcome to the " python 2 C++ Data Structures and Algorithms Repository." This repository represents a significant chapter of my academic journey, spanning from semester 3 to semester 5 of my undergraduate studies. Within these digital confines, you will find a comprehensive display of my exploration into the domain of data structures and algorithms, implemented meticulously in both C++ and Python.
 
 ## Repository Overview:
 
