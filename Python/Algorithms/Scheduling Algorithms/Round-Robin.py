@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 17 16:29:36 2020
-
-@author: USER
-"""
-
 
 from __future__ import annotations
 from statistics import mean
