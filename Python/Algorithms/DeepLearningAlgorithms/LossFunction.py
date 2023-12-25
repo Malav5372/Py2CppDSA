@@ -1,7 +1,6 @@
 
 import numpy as np
 
-
 class SquareLoss(Loss):
     def __init__(self):
         pass
