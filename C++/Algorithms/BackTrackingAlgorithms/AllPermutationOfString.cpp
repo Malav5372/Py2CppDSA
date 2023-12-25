@@ -3,8 +3,7 @@
     title: all permutation of a string
     what will it do: It will generate all permutation of a string
     time complexity: O(n*n!) 
-    code written and tested by: https://github.com/rafu01
-    date: 10-oct-2020
+    
 */
 
 #include <iostream>
