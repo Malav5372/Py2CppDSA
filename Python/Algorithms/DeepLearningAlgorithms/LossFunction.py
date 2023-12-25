@@ -1,5 +1,4 @@
 
-"""
 import numpy as np
 
 
@@ -12,4 +11,4 @@ class SquareLoss(Loss):
 
     def gradient(self, y, y_pred):
         return -(y - y_pred)
-"""
+
