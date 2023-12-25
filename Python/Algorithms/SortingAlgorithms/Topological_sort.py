@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  7 20:10:50 2020
-
-@author: KAMESH
-"""
-
 
 """Topological Sort."""
 
