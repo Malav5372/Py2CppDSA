@@ -3,8 +3,7 @@
     title: Kruskal algorithm to find minimum spanning tree of a graph
     what will it do: It will find the minimum spanning tree of a graph
     time complexity: O(ElogE) --> E = edges (Edge based algorithm)
-    code written and tested by: https://github.com/rafu01
-    date: 3-oct-2020
+   
 */
 
 #include <bits/stdc++.h>
