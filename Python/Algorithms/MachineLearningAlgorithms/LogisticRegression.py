@@ -14,7 +14,7 @@ class LogisticRegression:
     def __sigmoid(self, z):
         return 1 / (1 + np.exp(-z))
 
-    def __loss(self, h, y):
+    def __loss(self,h, y):
         return (-y * np.log(h) - (1 - y) * np.log(1 - h)).mean()
 
     def fit(self, X, y):
